@@ -7,6 +7,7 @@
 兼容的 OpenAI 格式，可对接 AI 编程，接入ChatBox、Cherry Studio、Cursor、Cline 等 AI 客户端。
 
 ## Deno 部署
+视频教程：[Deno部署视频教程](https://b23.tv/gR7GjP8)
 
 1. 免费创建一个 Grok API Key [https://api.x.ai](https://api.x.ai)
 1. 点击 [Fork](https://github.com/Lihu-PR/Grok-zz/fork) 本项目
